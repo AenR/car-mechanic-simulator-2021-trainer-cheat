@@ -1,0 +1,22 @@
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\bin\Debug\CMS 2021 Trainer.exe.config
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\bin\Debug\CMS 2021 Trainer.exe
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\bin\Debug\CMS 2021 Trainer.pdb
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\obj\Debug\CMS2021Trainer.csproj.AssemblyReference.cache
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\obj\Debug\CMS2021Trainer.csproj.SuggestedBindingRedirects.cache
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\obj\Debug\TwitchTrainerGuide.CMS2021Trainer.resources
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\obj\Debug\CMS2021Trainer.Properties.Resources.resources
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\obj\Debug\CMS2021Trainer.csproj.GenerateResource.cache
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\obj\Debug\CMS2021Trainer.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\obj\Debug\CMS 2021 Trainer.exe
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\obj\Debug\CMS 2021 Trainer.pdb
+C:\Users\emree\Desktop\CMS2021Trainer\CMS2021Trainer\bin\Debug\CMS 2021 Trainer.exe.config
+C:\Users\emree\Desktop\CMS2021Trainer\CMS2021Trainer\bin\Debug\CMS 2021 Trainer.exe
+C:\Users\emree\Desktop\CMS2021Trainer\CMS2021Trainer\bin\Debug\CMS 2021 Trainer.pdb
+C:\Users\emree\Desktop\CMS2021Trainer\CMS2021Trainer\obj\Debug\CMS2021Trainer.csproj.AssemblyReference.cache
+C:\Users\emree\Desktop\CMS2021Trainer\CMS2021Trainer\obj\Debug\CMS2021Trainer.csproj.SuggestedBindingRedirects.cache
+C:\Users\emree\Desktop\CMS2021Trainer\CMS2021Trainer\obj\Debug\TwitchTrainerGuide.CMS2021Trainer.resources
+C:\Users\emree\Desktop\CMS2021Trainer\CMS2021Trainer\obj\Debug\CMS2021Trainer.Properties.Resources.resources
+C:\Users\emree\Desktop\CMS2021Trainer\CMS2021Trainer\obj\Debug\CMS2021Trainer.csproj.GenerateResource.cache
+C:\Users\emree\Desktop\CMS2021Trainer\CMS2021Trainer\obj\Debug\CMS2021Trainer.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\CMS2021Trainer\CMS2021Trainer\obj\Debug\CMS 2021 Trainer.exe
+C:\Users\emree\Desktop\CMS2021Trainer\CMS2021Trainer\obj\Debug\CMS 2021 Trainer.pdb

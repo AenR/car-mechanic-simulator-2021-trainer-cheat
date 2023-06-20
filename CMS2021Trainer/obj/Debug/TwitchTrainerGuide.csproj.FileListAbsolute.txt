@@ -1,0 +1,20 @@
+C:\Users\deniz\source\repos\TwitchTrainerGuide\TwitchTrainerGuide\bin\Debug\TwitchTrainerGuide.exe.config
+C:\Users\deniz\source\repos\TwitchTrainerGuide\TwitchTrainerGuide\bin\Debug\TwitchTrainerGuide.exe
+C:\Users\deniz\source\repos\TwitchTrainerGuide\TwitchTrainerGuide\bin\Debug\TwitchTrainerGuide.pdb
+C:\Users\deniz\source\repos\TwitchTrainerGuide\TwitchTrainerGuide\obj\Debug\TwitchTrainerGuide.Form1.resources
+C:\Users\deniz\source\repos\TwitchTrainerGuide\TwitchTrainerGuide\obj\Debug\TwitchTrainerGuide.Properties.Resources.resources
+C:\Users\deniz\source\repos\TwitchTrainerGuide\TwitchTrainerGuide\obj\Debug\TwitchTrainerGuide.csproj.GenerateResource.cache
+C:\Users\deniz\source\repos\TwitchTrainerGuide\TwitchTrainerGuide\obj\Debug\TwitchTrainerGuide.csproj.CoreCompileInputs.cache
+C:\Users\deniz\source\repos\TwitchTrainerGuide\TwitchTrainerGuide\obj\Debug\TwitchTrainerGuide.exe
+C:\Users\deniz\source\repos\TwitchTrainerGuide\TwitchTrainerGuide\obj\Debug\TwitchTrainerGuide.pdb
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\obj\Debug\TwitchTrainerGuide.csproj.AssemblyReference.cache
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\obj\Debug\TwitchTrainerGuide.csproj.SuggestedBindingRedirects.cache
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\obj\Debug\TwitchTrainerGuide.csproj.GenerateResource.cache
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\obj\Debug\TwitchTrainerGuide.csproj.CoreCompileInputs.cache
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\obj\Debug\TwitchTrainerGuide.CMS2021Trainer.resources
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\bin\Debug\CMS 2021 Trainer.exe.config
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\bin\Debug\CMS 2021 Trainer.exe
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\bin\Debug\CMS 2021 Trainer.pdb
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\obj\Debug\CMS2021Trainer.Properties.Resources.resources
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\obj\Debug\CMS 2021 Trainer.exe
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\obj\Debug\CMS 2021 Trainer.pdb

@@ -1,0 +1,6 @@
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\obj\Release\TwitchTrainerGuide.csproj.AssemblyReference.cache
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\obj\Release\TwitchTrainerGuide.csproj.SuggestedBindingRedirects.cache
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\obj\Release\TwitchTrainerGuide.CMS2021Trainer.resources
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\obj\Release\TwitchTrainerGuide.Properties.Resources.resources
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\obj\Release\TwitchTrainerGuide.csproj.GenerateResource.cache
+C:\Users\emree\Desktop\TwitchTrainerGuide\TwitchTrainerGuide\obj\Release\TwitchTrainerGuide.csproj.CoreCompileInputs.cache
